@@ -113,7 +113,7 @@
                 &kp Q           &kp W           &kp E           &kp R           &kp T            &kp Y           &kp U           &kp I            &kp O             &kp P
                 &mt LCTRL A     &mt LSHIFT S    &mt LGUI D      &mt LALT F      &kp G            &kp H           &mt RALT J      &mt RGUI K       &mt RSHIFT L      &mt RCTRL SEMI
                 &kp ESC         &kp Z           &kp X           &kp C           &kp V            &kp B           &kp N           &kp M            &kp COMMA         &kp DOT           &kp FSLH          &kp BSPC
-                                                    &mo 2        &lt 1 SPACE      &htab_spc        &kp ENTER       &kp SPACE       &kp RALT
+                                                    &mo 2        &lt 1 SPACE      &htab_spc TAB SPACE       &kp ENTER       &kp SPACE       &kp RALT
             >;
         };
 
