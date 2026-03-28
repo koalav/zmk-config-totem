@@ -57,7 +57,7 @@
             flavor = "tap-preferred";
             tapping-term-ms = <200>;
             quick-tap-ms = <120>;
-            bindings = <&kp TAB>, <&kp SPACE>;
+            bindings = <&kp TAB &kp SPACE>;
             label = "TAB_SPACE";
         };
     };
